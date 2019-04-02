@@ -1,0 +1,23 @@
+
+Opgave BRUTE FORCE
+=====================
+
+de opgave staat volledig beschreven in de pdf.
+
+woorden.txt 
+	is een voorbeeld bestand en kan/moet worden aangepast.
+
+subst.txt 
+	is een voorbeeld bestand en zal voor sommige hashes moeten worden aangepast.
+	bij aanpassingen moet je geen nieuwe substituties maken,
+	alleen bestaande regel verwijderen. maar dit kan op veel manieren.
+
+md5.cpp
+	dit is voorbeeld code. Hiermee kun je testen of de installatie 
+	van openssl-dev correct is gedaan.
+
+checkHash.cpp is het programma dat de MD5 hashes berekend van alle 
+	aangeboden regel en vergelijkt met de ingelezen hashes.
+
+De beide *.cpp bestanden geven ook een idee van de code die gevraagd wordt.
+
